@@ -141,7 +141,7 @@
 |前置條件|顧客有可用的手機號碼或電子郵件地址。| 
 |後置條件|顧客註冊成功|
 
-|合約2|chooseItemsToAddToShoppingCart()|
+|合約3|chooseItemsToAddToShoppingCart()|
 |---|---| 
 |操作|chooseItemsToAddToShoppingCart()|
 |交互參照|使用案例:選擇要添加到購物車的商品|
